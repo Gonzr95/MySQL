@@ -1,0 +1,11 @@
+Slr1.6bopEvrtn.
+Slr1.6bopEvrtn.
+
+CTRL + ENTER para ejecutar una sentencia 
+
+Cardinalidad: nos indica la relacion que tienen las tablas
+entre ellas
+ej
+un usuario puede crear varios productos
+pero 1 producto no puede ser creado por varios usuarios
+1 -> n uno a ene uno a varios 

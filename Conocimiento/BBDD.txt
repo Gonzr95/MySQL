@@ -1,0 +1,40 @@
+MySQL
+Posgres
+MariaDB
+Oracle
+Intornix
+
+hay soft de gestion de BBDD que son:
+	-sql: almacenan los datos en forma de tablas
+	-non-sql: json, bson, blob, key-value
+
+PK primary key: campo que identifica un registro con
+otra entidad de otra tabla.
+EJ: tabla productos: son cargados/creados por un usuario
+es una relacion de 1 -> n donde un usuario pudo haber creado 
+muchos productos, pero 1 prod pudo haber sido creado por un
+unico usuario. 
+Se guarda por ID porque los datos
+de un usuario pueden cambiar / para ahorrar espacio ya que 
+sino estariamos duplicado la informacion del user
+
+
+
+FK foreign key: Un campo en una tabla que hace referencia a 
+la primary key de otra tabla, estableciendo relaciones entre
+tablas.
+
+
+usuario root: permite crear tablas modificar etc.
+no hace falta agregar nuevo usuario
+
+
+
+
+
+
+
+
+
+
+
