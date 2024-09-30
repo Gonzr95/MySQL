@@ -31,4 +31,5 @@ UPDATE animales SET tipo = 'perro' WHERE id = 2;
 UPDATE animales SET tipo = 'gato' WHERE id = 3;
 UPDATE animales SET tipo = 'loro' WHERE id = 4;
 
+-- esto es un comentario para probar algo de GitHub
 
